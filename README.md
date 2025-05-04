@@ -110,7 +110,7 @@ Key tables used:
 
 | 📍 Homepage | 🎯 Decision Support | 🏟️ Venue Insights |
 |------------|--------------------|-------------------|
-| (images/Home_Page_ss.png) | (images/Decision_Support_ss.png) | (images/Venue_Insights_ss.png)|
+| [(images/Home_Page_ss.png)](https://github.com/RajiRavi72/SportsRadarProject/blob/main/images/Home_Page_ss.png?raw=true) | [(images/Decision_Support_ss.png)](https://github.com/RajiRavi72/SportsRadarProject/blob/main/images/Decision_Support_ss.png?raw=true) | [(images/Venue_Insights_ss.png)](https://github.com/RajiRavi72/SportsRadarProject/blob/main/images/Venue_Insights_ss.png?raw=true)|
 
 ---
 
