@@ -1,7 +1,7 @@
 # 🎾 Game Analytics: Unlocking Tennis Data with SportsRadar API
 
 ## 📌 Overview
-This Streamlit application provides interactive insights into professional tennis using real-time data from the **SportRadar API**. It empowers analysts, coaches, and fans with tools to explore events, rankings, venues, and trends—all in one dashboard.
+This Streamlit application provides interactive insights into professional tennis using real-time data from the **SportsRadar API**. It empowers analysts, coaches, and fans with tools to explore events, rankings, venues, and trends—all in one dashboard.
 
 ---
 
